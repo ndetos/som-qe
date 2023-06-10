@@ -13,3 +13,6 @@ These values indicate the changing water levels of the lake over the years, and 
 >'Lake levels rose steadily through the 1980s, reaching 24.8 million acre-feet in August 1985, when the bottom image was taken. But as of August 2010 (top image), Lake Mead held 10.35 million acre-feet, just 37 percent of the lake's capacity.' 
 
 Check out the link for the images referred to in this quote. Note the corresponding SOM-QE values for year 1985 (higher) and for year 2010 (low).
+
+Cite this work as:
+>Wandeto, J.M., Nyongesa, H., Rémond, Y., Dresp-Langley, B., 2017. Detection of small changes in medical and random-dot images comparing self-organizing map performance to human detection. Informatics in Medicine Unlocked 7, 39–45. https://doi.org/10.1016/j.imu.2017.03.001
